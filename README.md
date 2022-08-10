@@ -2,6 +2,8 @@
 
 Make use of a shared library to reuse code across multiple jobs.
 
+Blog post: https://rodrigocprates.hashnode.dev/jenkins-shared-libraries
+
 ## Setup instructions
 
 1. In Jenkins, go to Manage Jenkins &rarr; Configure System. Under _Global Pipeline Libraries_, add a library with the following settings:
